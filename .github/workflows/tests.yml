@@ -34,4 +34,4 @@ jobs:
         pip install -r requirements.txt
         
     - name: Browser Init
-      run: rfBrowser init
+      run: rfbrowser init
