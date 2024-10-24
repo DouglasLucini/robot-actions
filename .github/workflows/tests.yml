@@ -51,3 +51,4 @@ jobs:
       if: always()
       with:
         name: Test Report
+        path: logs
